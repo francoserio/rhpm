@@ -1,2 +1,1 @@
-# rhpm
-Request Header Parser Microservice
+# Backend Challenges boilerplate - package.json
